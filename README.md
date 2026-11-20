@@ -1,4 +1,5 @@
 # Project 7: CI Validation for Terraform
+![Terraform CI](https://github.com/Nikhilgupta189/project7-terraform-ci/actions/workflows/terraform-ci.yml/badge.svg)
 
 ## Objective
 Automate Terraform infrastructure-as-code validation using GitHub Actions.
